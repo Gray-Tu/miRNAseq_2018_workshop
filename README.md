@@ -17,7 +17,7 @@ CHSLab 2018年度課程區
 + ~linux 環境 <3/10>~
 + ~conda 使用方法 <3/10>~
 + ~安裝對應工具 <3/10>~
-> 1. ~fastqc (HW01) ~
+> 1. ~fastqc (HW01)~
 > 2. ~fastx-toolkit (conda)~
 > 3. ~cutadapt (conda)~
 > 4. ~miRDeep2 (bowtie) (conda)~
